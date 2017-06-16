@@ -8,14 +8,17 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #00FFFF;
   height: 150px;
   padding: 20px;
-  color: white;
+  color: black;
+
 }
 
 .App-intro {
-  font-size: large;
+  font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+
+  font-size: small;
 }
 
 @keyframes App-logo-spin {
